@@ -1,6 +1,6 @@
 # Contributing to Education Github Clone Website
 
-Welcome to the Education github Clone Website project! We're thrilled that you're interested in contributing. Your help is essential in making our website even more brew-tiful. Before you dive in, please take a moment to review the following guidelines.
+Welcome to the Education GitHub Clone Website project! We're thrilled that you're interested in contributing. Your help is essential in making our website even more beautiful. Before you dive in, please take a moment to review the following guidelines.
 
 ## How to Contribute
 
@@ -43,7 +43,7 @@ Welcome to the Education github Clone Website project! We're thrilled that you'r
 
 ## Code Style Guidelines
 
-- Follow consistent coding style, including indentation and naming conventions.
+- Follow a consistent coding style, including indentation and naming conventions.
 - Add comments for complex logic to enhance code readability.
 - Make sure your code is free from linting errors.
 
@@ -53,6 +53,6 @@ If you find a bug, have a suggestion, or want to discuss something related to th
 
 ## Communication
 
-Feel free to reach out to us through GitHub issues, discussions, or our [community forum]([link-to-forum](https://github.com/dev-devil-dev/education_github/discussions)) for any questions or ideas. We're excited to collaborate with you!
+Feel free to reach out to us through GitHub issues, discussions, or our [community forum](https://github.com/dev-devil-dev/education_github/discussions) for any questions or ideas. We're excited to collaborate with you!
 
 Thank you for contributing. ☕ Happy coding!
