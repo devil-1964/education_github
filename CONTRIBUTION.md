@@ -55,4 +55,4 @@ If you find a bug, have a suggestion, or want to discuss something related to th
 
 Feel free to reach out to us through GitHub issues, discussions, or our [community forum](https://github.com/dev-devil-dev/education_github/discussions) for any questions or ideas. We're excited to collaborate with you!
 
-Thank you for contributing. ☕ Happy coding!
+Thank you for contributing. 🌟 Happy coding!
