@@ -1,45 +1,32 @@
 # Education Github Clone Website
 
-Welcome to the Education Github Clone Website project! Our mission is to replicate the GitHub Education Website for beginners. Join us in this exciting journey to create a beautiful and functional educational platform.
+Welcome to the Education Github Clone Website project! 
 
 **Project Inspiration**: We are inspired by the design and features of [GitHub Education](https://education.github.com/students).
 
+## Note:
+This website is not responsive. I made this while learning Tailwind CSS, when I came near the end, I noticed it was not responsive; at that time, I was too late. In the future, if I have time, I will definitely make it responsive. Otherwise, it is a fully working site very similar to the original.
+
 
 ## Table of Contents
-- [Contributing](#contributing)
-- [Code Style Guidelines](#code-style-guidelines)
-- [Reporting Issues](#reporting-issues)
-- [Communication](#communication)
+- [Disclaimer](#disclaimer)
+- [Preview](#preview)
+- [Plot](#plot)
 
-## Contributing
+## Disclaimer
 
-We welcome contributions from everyone! Please review our [Contribution Guidelines](CONTRIBUTION.md) to get started. 
+This website is made by **Devansh** and this website is only made for practice and fun. The rights of this website are reserved to its actual owner.
 
-## Code Style Guidelines
+## Preview
 
-- Follow a consistent coding style, including indentation and naming conventions.
-- Add comments for complex logic to enhance code readability.
-- Make sure your code is free from linting errors.
+![githubEducation](https://github.com/devil-1964/education_github/assets/98086933/1718e468-b9b7-4ac5-b48b-8c78aabe025c)
 
-## Reporting Issues
+## Plot
 
-If you find a bug, have a suggestion, or want to discuss something related to the project, please open an issue on the [GitHub Issues](https://github.com/dev-devil-dev/education_github/issues). Be sure to include a clear description and, if applicable, steps to reproduce the issue.
+I made most of the website using *Tailwind CSS* but I used some *Javascript* for the Dropdown Menu.
 
-## Communication
+**Dropdown Explained**: I toggled the *invisible* class using the *onClick* function on the Dropdown Button which display: none to the Dropdown content. I also added window.onclick function to make Dropdown menu invisible when click on any part of the page when Dropdown is set to block.
 
-We value open communication and collaboration. You can reach out to us in the following ways:
-
-- **GitHub Issues**: For bug reports, feature requests, and general project-related discussions, please use our [GitHub Issues](https://github.com/dev-devil-dev/education_github/issues). 
-- **GitHub Discussions**: Engage in meaningful conversations and share your ideas in our [GitHub Discussions](https://github.com/dev-devil-dev/education_github/discussions) section.
-- **Community Forum**: Join our [community forum](https://github.com/dev-devil-dev/education_github/discussions) for broader discussions and interaction with the community.
-
-We're excited to collaborate with you and build something amazing together!
-
-
-
----
-
-Thank you for contributing.  Happy coding!
 
 🌟 Don't forget to star ⭐ this repository if you find it great.
 
