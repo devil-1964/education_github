@@ -22,6 +22,9 @@ module.exports = {
       ],
     },
     extend: {
+      borderWidth: {
+        '1.2': '1.2px',
+      },
       colors: {
         transparent: "transparent",
         current: "currentColor",
@@ -34,6 +37,9 @@ module.exports = {
         "bubble-gum": "#ff77e9",
         bermuda: "#78dcca",
         black: "black",
+        blue: {
+          '500': '#2196F3', // You can set your desired hex color code here
+        },
       },
     },
   },
